@@ -1,0 +1,13 @@
+Linux es un sistema operativo completamente libre y por lo tanto, gratuito. Un producto que a diferencia de Windows o macOS no es propiedad de una compañía, de ahí su gratuidad, sino de un gran número de compañías o personas que contribuyen con su desarrollo y van creando sus propias distribuciones Linux
+En definitiva, Linux es un sistema que nace de la combinación de varios proyectos entre los que destacan GNU y la Free Software Foundation además del propio núcleo de Linux encabezado por Linus Torvalds. Su desarrollo es uno de los mejores ejemplos del software libre, donde todo su código fuente puede ser utilizado, modificado y distribuido libremente por cualquier bajo los términos de la licencia GPL o Licencia Pública General de GNU y otras licencias.
+Características de Linux:
+Gratis
+Código abierto
+Seguro
+Multitarea
+Mulitusuario
+Personalizable
+Alto control de dispositivos
+Independiente
+Estable
+Escalable
